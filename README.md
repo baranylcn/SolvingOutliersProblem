@@ -48,3 +48,5 @@ The determined slope change point was chosen as threshold.
 The individual variables may appear as outliers, but we found outliers depending on the situation between the variables.
 
 Note : If working with tree methods, these values should not be changed.
+
+**_You can find the mentioned titles and explanations in detail in SolvingOutliersProblem.py_**
