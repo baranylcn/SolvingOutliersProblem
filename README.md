@@ -22,7 +22,7 @@ The formula functionalized and applied.
 Now, we can grab the outliers and take a look.
 
 ### How to Solve the Outlier Problem?
-#### -Trimming 
+#### -Trimming (Deletion)
 Outliers can be deleted. We have implemented it but this is not recommended as it will often result in data loss.
 #### -Imputation
 As with the methods of dealing with missing data, the method of assigning values ​​can be preferred instead of outliers. It is more advantageous than the problems caused by data loss in deletion operations.
