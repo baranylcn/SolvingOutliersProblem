@@ -8,16 +8,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.neighbors import LocalOutlierFactor
 
-
-
-def load_application_train():
-    data = pd.read_csv("datasets/application_train.csv")
-    return data
-
-df = load_application_train()
-df.head()
-
-
 def load():
     data = pd.read_csv("datasets/titanic.csv")
     return data
